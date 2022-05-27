@@ -8,10 +8,19 @@ e)1. Matias Gagni: Git clone https://github.com/MatiasGagni/TP_SO_i2_105
 4. Matias Gagni: Git push
 5. Mateo Geminiani: Git clone https://github.com/mat30gg/TP_SO_i2_105
 6. Mateo Geminiani: Git add .
-7. Mateo Geminiani: Git commit -m "Modificacion gamma"
+7. Mateo Geminiani: Git commit -m "Modificacion alfa"
 8. Mateo Geminiani: Git push
 9. Alejandro Heidenreich: Git clone https://github.com/alejandroheidenreich/TP_SO_i2_105
 10. Alejandro Heidenreich: Git add .
 11. Alejandro Heidenreich: Git commit -m "agregado archivo nuevo dato"
 12. Alejandro Heidenreich: Git push
 13. Matias Gagni, Mateo Geminiani: Git pull https://github.com/alejandroheidenreich/TP_SO_i2_105
+14. Matias Gagni: Git add .
+15. Matias Gagni: Git commit -m "Modificacion gamma"
+16. Matias Gagni: Git push
+17. Alejandro Heidenreich: Git add .
+18. Alejandro Heidenreich: Git commit -m "actualizado respuestas"
+19. Alejandro Heidenreich: Git push
+6. Mateo Geminiani: Git add .
+7. Mateo Geminiani: Git commit -m "respuesta e"
+8. Mateo Geminiani: Git push
